@@ -38,3 +38,8 @@ VISUALIZACIÓN:
 - Proporción de clientes con diferentes tipos de tarjetas de fidelidad: para conocer cuántos clientes hay por cada tipo de tarjeta agrupo los datos por tipo de tarjeta de fidelidad y cuento el número de Loyalty Numbers único para cada uno. Hago un Pieplot para conocer la proporción en porcentaje.
 
 - Distribución por estado civil y género: utilizo un countplot para relacionar estas dos variables categóricas. En el eje y el número total de clientes y en el eje x el estado civil, añado un hue de género para poder visualizar los datos de forma más clara. También he hecho una tabla de contingencia como apoyo para la conclusión ya que muestra en forma de porcetaje la distribución de los datos de estado civil por género.
+
+
+BONUS:
+El cliente quiere conocer las estadísticas descriptivas (jmedia, mediana, desviación estándar y varianza) de los vuelos reservados para cada grupo de nivel educativo.
+Para ello primero he tenido que agrupar por 'Loyalty Number' y 'Education' y hacer una suma de los vuelos reservados, 'Flights Booked', para conocer el número totla de vuelos reservados por cada cliente y su nivel educativo. Para a continuación agrupar por nivel educativo y calcular las estadísticas descriptivas de los vuelos reservados por cada grupo.
