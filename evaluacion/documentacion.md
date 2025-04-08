@@ -41,5 +41,5 @@ VISUALIZACIÓN:
 
 
 BONUS:
-El cliente quiere conocer las estadísticas descriptivas (jmedia, mediana, desviación estándar y varianza) de los vuelos reservados para cada grupo de nivel educativo.
-Para ello primero he tenido que agrupar por 'Loyalty Number' y 'Education' y hacer una suma de los vuelos reservados, 'Flights Booked', para conocer el número totla de vuelos reservados por cada cliente y su nivel educativo. Para a continuación agrupar por nivel educativo y calcular las estadísticas descriptivas de los vuelos reservados por cada grupo.
+El cliente quiere conocer las estadísticas descriptivas (media, mediana, desviación estándar y varianza) de los vuelos reservados para cada grupo de nivel educativo.
+Para ello primero he tenido que agrupar por 'Loyalty Number' y 'Education' y hacer una suma de los vuelos reservados, 'Flights Booked', para conocer el número total de vuelos reservados por cada cliente y su nivel educativo. Para a continuación agrupar por nivel educativo y calcular las estadísticas descriptivas de los vuelos reservados por cada grupo.
